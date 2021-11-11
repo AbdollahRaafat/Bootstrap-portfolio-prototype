@@ -1,3 +1,9 @@
 .icons {
-  padding-left: 0.5px;
+    padding-left: 0.5px;
+}
+
+.section {
+    background-image: url(./images/Header\ bg.svg);
+    background-size: cover;
+    background-repeat: no-repeat;
 }
